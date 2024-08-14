@@ -1,0 +1,13 @@
+3 2
+Tran, Ba Dung, Nam, 032
+1
+HD1,24 10 2003,N
+1
+VT09006138,10 10 10,1
+Le, Hong Phuc, Nam, 473
+1
+HD2,20 10 2022,X
+1
+VT52709423,10 10 13,1
+Phan, Phi Hung, Nam, 078
+0
